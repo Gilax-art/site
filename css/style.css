@@ -181,7 +181,7 @@ header{
 .container__menu p{
     cursor: url("..img/kyrsor.webp"), pointer;
     user-select: none;
-    background-image: url('..img/Union.webp'), url('..img/angle\ down.webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/Union.webp'), url('https://raw.githubusercontent.com/Gilax-art/site/main/img/angle%20down.webp');
     background-repeat: no-repeat;
     background-position: left, right;
     text-align: center;
@@ -200,7 +200,7 @@ header{
 }
 
 .container__menu .title_link:nth-child(3){
-    background-image: url('..img/Vector\ 144\ \(Stroke\).webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/Vector%20144%20(Stroke).webp');
     background-repeat: no-repeat;
     background-position: left;
     text-align: right;
@@ -208,7 +208,7 @@ header{
 }
 
 .container__menu .title_link:nth-child(4){
-    background-image: url('..img/Union\ \(1\).webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/Union%20(1).webp');
     background-repeat: no-repeat;
     background-position: left;
     text-align: right;
@@ -216,7 +216,7 @@ header{
 }
 
 .container__menu .title_link:nth-child(5){
-    background-image: url('..img/Union\ \(2\).webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/Union%20(2).webp');
     background-repeat: no-repeat;
     background-position: left;
     text-align: right;
@@ -224,7 +224,7 @@ header{
 }
 
 .container__menu .title_link:nth-child(6){
-    background-image: url('..img/U2.webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/U2.webp');
     background-repeat: no-repeat;
     background-position: left;
     text-align: right;
@@ -265,7 +265,7 @@ header{
 }
 
 a {
-    cursor: url("..img/kyrsor.webp"), pointer;
+    cursor: url("https://raw.githubusercontent.com/Gilax-art/site/main/img/kyrsor.webp"), pointer;
 }
 
 .link{
@@ -297,7 +297,7 @@ a {
     max-width: 32px;
     width: 100%;
     background-color: white;
-    background-image: url('..img/Union.webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/Union.webp');
     background-repeat: no-repeat;
     background-size: 100%;
     border-radius: 5px;
@@ -310,7 +310,7 @@ a {
     max-width: 32px;
     width: 100%;
     background-color: white;
-    background-image: url('..img/krestik.webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/krestik.webp');
     transform: rotate(360deg);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -370,38 +370,38 @@ a {
 }
 
 .img-1{
-    background-image: url('..img/Rectangle\ 316\ \(Stroke\).webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/rectangle.webp');
     background-repeat: no-repeat;
     background-position: left;
 }
 
 .img-2{
-    background-image: url('..img/Union.webp'), url('..img/angle\ down.webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/Union.webp'), url('https://raw.githubusercontent.com/Gilax-art/site/main/img/angle%20down.webp');
     background-repeat: no-repeat;
     background-position: left, right;
 }
 
 .img-3{
-    background-image: url('..img/Vector\ 144\ \(Stroke\).webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/Vector%20144%20(Stroke).webp');
     background-repeat: no-repeat;
     background-position: 4px;
 }
 
 .img-4{
-    background-image: url('..img/Union\ \(1\).webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/Union%20(1).webp');
     background-repeat: no-repeat;
     background-position: left 2px;
     padding-left: 10px;
 }
 
 .img-5{
-    background-image: url('..img/Union\ \(2\).webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/Union%20(2).webp');
     background-repeat: no-repeat;
     background-position: left;
 }
 
 .img-6{
-    background-image: url('..img/U2.webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/U2.webp');
     background-repeat: no-repeat;
     background-position: left;
     padding-left: 5px;
@@ -518,7 +518,7 @@ a {
     background-color: #4135F1;
     border-radius: 8px;
     user-select: none;
-    cursor: url('..img/kyrsor.webp'), pointer;
+    cursor: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/kyrsor.webp'), pointer;
     transition-duration: 0.4s;
 }
 
@@ -600,7 +600,7 @@ a {
 .txlink{
     color: #4135F1;
     text-decoration: underline;
-    cursor: url('..img/kyrsor.webp'), pointer;
+    cursor: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/kyrsor.webp'), pointer;
 }
 
 .container-2__contant-2 {
@@ -627,7 +627,7 @@ a {
     min-height: 425px;
 }
 .buttons {
-    cursor: url('..img/kyrsor.webp'), pointer;
+    cursor: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/kyrsor.webp'), pointer;
     user-select: none;
     display: flex;
     justify-content: space-between;
@@ -697,7 +697,7 @@ a {
     background: #4135F1;
     border-radius: 8px;
     user-select: none;
-    cursor: url('..img/kyrsor.webp'), pointer;
+    cursor: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/kyrsor.webp'), pointer;
     transition-duration: 0.4s;
 }
 
@@ -782,11 +782,11 @@ a {
     color: #23213D;
     background: #FFDC36;
     border-radius: 8px;
-    background-image: url('..img/Shape.webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/Shape.webp');
     background-repeat: no-repeat;
     background-position: 220px;
     padding: 12px 68px 12px 32px;
-    cursor: url('..img/kyrsor.webp'), pointer;
+    cursor: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/kyrsor.webp'), pointer;
     user-select: none;
     transition-duration: 0.4s;
 }
@@ -897,7 +897,7 @@ iframe{
     font-size: 18px;
     line-height: 145%;
     color: #4135F1;
-    background-image: url('..img/Arrow\ Right.webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/Arrow%20Right.webp');
     background-repeat: no-repeat;
     background-position: right;
     max-width: 200px;
