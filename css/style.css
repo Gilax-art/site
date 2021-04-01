@@ -171,7 +171,7 @@ header{
 }
 
 .container__menu .title_link:nth-child(1){
-    background-image: url('site/img/rectangle.webp');
+    background-image: url('img/rectangle.webp');
     background-repeat: no-repeat;
     background-position: left;
     text-align: right;
