@@ -181,7 +181,7 @@ header{
 .container__menu p{
     cursor: url("https://raw.githubusercontent.com/Gilax-art/site/main/img/kyrsor.webp"), pointer;
     user-select: none;
-    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/Union.webp'), url('https://raw.githubusercontent.com/Gilax-art/site/main/img/angle%20down.webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/ea4036136760f7d5f98188b2c9f5ec1e5efa4715/img/Union.svg'), url('https://raw.githubusercontent.com/Gilax-art/site/main/img/angle%20down.webp');
     background-repeat: no-repeat;
     background-position: left, right;
     text-align: center;
@@ -310,7 +310,7 @@ a {
     max-width: 32px;
     width: 100%;
     background-color: white;
-    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/krestik.webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/krestik.jpg');
     transform: rotate(360deg);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -376,7 +376,7 @@ a {
 }
 
 .img-2{
-    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/Union.webp'), url('https://raw.githubusercontent.com/Gilax-art/site/main/img/angle%20down.webp');
+    background-image: url('https://raw.githubusercontent.com/Gilax-art/site/ea4036136760f7d5f98188b2c9f5ec1e5efa4715/img/Union.svg'), url('https://raw.githubusercontent.com/Gilax-art/site/main/img/angle%20down.webp');
     background-repeat: no-repeat;
     background-position: left, right;
 }
