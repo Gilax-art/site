@@ -179,7 +179,7 @@ header{
 }
 
 .container__menu p{
-    cursor: url("https://raw.githubusercontent.com/Gilax-art/site/main/img/kyrsor.webp"), pointer;
+    cursor: url('https://raw.githubusercontent.com/Gilax-art/site/main/img/kyrsor.webp'), pointer;
     user-select: none;
     background-image: url('https://raw.githubusercontent.com/Gilax-art/site/ea4036136760f7d5f98188b2c9f5ec1e5efa4715/img/Union.svg'), url('https://raw.githubusercontent.com/Gilax-art/site/main/img/angle%20down.webp');
     background-repeat: no-repeat;
