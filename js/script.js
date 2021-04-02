@@ -55,6 +55,14 @@ $('.container-3__contant .but').on('click', function(){
         window.open(this.href="https://www.google.com.ua/?hl=ru");
 });
 
+$('.container-5__link').on('click', function(){
+        window.open(this.href="https://www.google.com.ua/?hl=ru");
+});
+
+$('.plink').on('click', function(){
+        window.open(this.href="https://www.google.com.ua/?hl=ru");
+});
+
 $('.b-1').addClass('on');
 $('.b-1').on('click',function(){
         $('.stap-1__info').slideDown(350);
@@ -84,3 +92,68 @@ $('.b-3').on('click',function(){
 });
 
 $('.slick-slider').slick();
+
+var hover = true;
+$('.column-2 p').on('hover',function(){
+        if(hover == true){
+                $('.column-2 p:nth-child(1)').addClass('on');
+                hover = false;
+        }else{
+                $('.column-2 p:nth-child(1)').removeClass('on');
+                hover = true;
+        }
+});
+
+$('.column-3 p').on('hover',function(){
+        if(hover == true){
+                $('.column-3 p:nth-child(1)').addClass('on');
+                hover = false;
+        }else{
+                $('.column-3 p:nth-child(1)').removeClass('on');
+                hover = true;
+        }
+});
+
+$('.sitename').on('click', function(){
+        location.reload();
+});
+
+$('.subslink').on('click', function(){
+        window.open(this.href="https://www.google.com.ua/?hl=ru");
+});
+
+$('.footlink').on('click', function(){
+        window.open(this.href="https://www.google.com.ua/?hl=ru");
+});
+
+$('.inst').on('click', function(){
+        window.open(this.href="https://www.instagram.com");
+});
+
+$('.ok').on('click', function(){
+        window.open(this.href="https://ok.ru/?_erv=vwhxlyirbwpynedop");
+});
+
+$('.teleg').on('click', function(){
+        window.open(this.href="https://web.telegram.org/#/login");
+});
+
+$('.whats').on('click', function(){
+        window.open(this.href="https://www.whatsapp.com/?lang=ru");
+});
+
+$('.vk').on('click', function(){
+        window.open(this.href="https://vk.com");
+});
+
+$('.tito').on('click', function(){
+        window.open(this.href="https://www.tiktok.com/login?redirect_url=https%3A%2F%2Fwww.tiktok.com%2Fupload%2F%3Flang%3Dru&lang=ru-RU");
+});
+
+$('.number').on('click', function(){
+        window.open(this.href="tel:84951183934");
+});
+
+$('.adres').on('click', function(){
+        window.open(this.href="mailto:info@femidafors.ru");
+});
